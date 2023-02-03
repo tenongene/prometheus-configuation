@@ -1,0 +1,4 @@
+node_key.pem
+node_key.pem:Zone.Identifier
+terraform.tfstate
+terraform.tfstate.backup
